@@ -1,4 +1,4 @@
-* main/java 폴더 안에 java 소스코드가 있습니다.
+* main/java/com/example/helloandroid/ 폴더 안에 java 소스코드가 있습니다.
 * main/res/layout 폴더 안에 xml 코드가 있습니다.
 
 [실습에 해당하는 파일명]
