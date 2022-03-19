@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">HelloAndroid</string>
     <string name="strBtn1">버튼입니다.</string>
+    <string name="strBtn2">글자 나타내기</string>
+    <string name="strBtn3">홈페이지 열기</string>
+    <string name="editText1">글자 또는 URL 입력</string>
+    <string name="rd1">11.0(R)</string>
+    <string name="rd2">12.0(S)</string>
 </resources>
