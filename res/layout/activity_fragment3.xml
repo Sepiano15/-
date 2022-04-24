@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#123456">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="세번째 화면 입니다." />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:padding="20dp"
+        android:src="@drawable/s1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="안드로이드 12"/>
+</LinearLayout>

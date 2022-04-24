@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">HelloAndroid</string>
     <string name="strBtn1">버튼입니다.</string>
+    <string name="navigation_drawer_open">오픈</string>
+    <string name="navigation_drawer_close">클로즈</string>
+    <string name="nav_header_title">고양이</string>
+    <string name="nav_header_subtitle">사이드바 메뉴</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu1">메뉴 1</string>
+    <string name="menu2">메뉴 2</string>
+    <string name="menu3">메뉴 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

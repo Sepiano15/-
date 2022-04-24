@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#984697">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:textSize="30dp"
+        android:text="학생증"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:padding="10dp"
+        android:src="@drawable/me"/>
+
+    <EditText
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="충북대학교"
+        android:textSize="20dp" />
+
+    <EditText
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="소프트웨어학과"
+        android:textSize="20dp" />
+
+    <EditText
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="김범철"
+        android:textSize="20dp" />
+
+</LinearLayout>
